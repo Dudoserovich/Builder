@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Builder.dir/main.cpp.o -o Builder.exe -Wl,--out-implib,libBuilder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
